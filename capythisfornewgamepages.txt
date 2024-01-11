@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>gamename</title>
+    </head>
+
+    <style>
+        body {background-color: black;}
+    </style>
+
+    and then the iframe
+</html>
