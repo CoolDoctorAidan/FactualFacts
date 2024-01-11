@@ -9,3 +9,6 @@
 
     and then the iframe
 </html>
+
+tip:
+sometimes you have to do width=100% height=100%
